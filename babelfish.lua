@@ -57,6 +57,11 @@ local FILE_LIST_ID = {
 		"AtlasLootClassic_DungeonsAndRaids/data-wrath.lua",
 	},
 	{
+		name = "DungeonsAndRaidsCata",
+		base = "DungeonsAndRaidsCata",
+		"AtlasLootClassic_DungeonsAndRaids/data-cata.lua",
+	},
+	{
 		name = "PvP",
 		"AtlasLootClassic_PvP/AtlasLootClassic_PvP.toc",
 	},
